@@ -127,5 +127,3 @@ export class HashTable {
     return bucketLength;
   }
 }
-
-const hashTable = new HashTable();
