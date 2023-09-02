@@ -1,0 +1,10 @@
+{
+  "name": "at-hash-table",
+  "description": "base implementation of hash table",
+  "main": "index.js",
+  "version": "1.0.0",
+  "license": "ISC",
+  "dependencies": {
+    "at-linked-list": "^2.0.0"
+  }
+}
